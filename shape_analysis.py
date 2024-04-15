@@ -23,7 +23,7 @@ UPDATES
 - minor formatting changes
 - added some comments
 
-to run from terminal
+run from terminal
 > cd path/to/csv/files
 > python3 path/to/shape_analysis.py
 """
