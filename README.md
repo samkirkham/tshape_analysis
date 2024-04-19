@@ -41,7 +41,7 @@ The code is written in Python.
 * The script expects the .csv files containing the data to be in the current working directory.
 * The script can be run in Python or in a terminal window 
 * If you use the terminal window, type in the file path (including the filename) for ‘shape_analysis.py’. Press Enter to execute the script.
-* If you are in Python, type: `import shape_analysis` then `shape_analysis.doIt()`
+* If you are in Python, type: `import shape_analysis` then `shape_analysis.main()`
 
 ## Test data
 
